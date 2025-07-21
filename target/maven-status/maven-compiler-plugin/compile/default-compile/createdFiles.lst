@@ -1,0 +1,5 @@
+pagination\page\PageApplication.class
+pagination\page\controller\StudentController.class
+pagination\page\service\StudentService.class
+pagination\page\repository\StudentRepository.class
+pagination\page\entity\Student.class
